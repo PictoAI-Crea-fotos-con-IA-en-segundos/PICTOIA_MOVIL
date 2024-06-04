@@ -1,0 +1,30 @@
+name: login_register_menu_app
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.7.0
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.jpeg
+    - assets/bienvenida.png
+    - assets/somos.jpeg
+    - assets/genima.png
+    - assets/basico.webp
+    - assets/pro.webp
+    - assets/empresa.webp
