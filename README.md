@@ -1,1 +1,1 @@
-codigo 100% pictoAI MOVILE
+CODIGO AL 100 %
